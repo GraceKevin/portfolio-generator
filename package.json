@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "it worked"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraceKevin/portfolio-generator.git"
+  },
+  "author": "KG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GraceKevin/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/GraceKevin/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
